@@ -16,7 +16,7 @@ There have been 5000+ observations and and features that include:
 
 Out of the 5716 deaths reported.  The average age of the deceased was 37 years old.  The ages ranged from 6 to 91.
 
-(https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/agehistogram.png)
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/agehistogram.png)
 
 
 6% of victims were unarmed.
