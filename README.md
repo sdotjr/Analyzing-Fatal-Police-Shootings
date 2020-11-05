@@ -39,10 +39,12 @@ Looking at the numbers as the proportion of the racial population, Blacks, Hispa
 
 Since 2015, March has been the most likely month for these types of encounters to occur with 82 fatal encounter on average.
 
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/averageshootingspermonth.png)
 
 There are 5 states that require at least some officers to wear body cameras:  
 South Carolina, Nevada, California, Connecticut, Florida
 
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/bodycamera.png)
 
 # Where do they occur?
 
