@@ -7,7 +7,9 @@ Location
 Weapon held
 Availability of Body Camera footage and more
 
-Datasets used:  https://github.com/washingtonpost/data-police-shootings
+Datasets used:  
+
+    https://github.com/washingtonpost/data-police-shootings
                 
-                https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml 
+    https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml 
 
