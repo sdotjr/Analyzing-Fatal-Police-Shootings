@@ -50,8 +50,12 @@ South Carolina, Nevada, California, Connecticut, Florida
 
 The top 3 states where these shootings occurred the most are California, Texas, and Florida.  These are also the 3 most populous states in US.  The state with the 4th most population, New York, is relatively low on this list.
 
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/Shootingsbystate.png)
+
 # Are police shootings only a problem in densely populated areas?
 
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/totalshootingsmap.png)
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/shootingsbypopulation.png)
 
 Datasets used:  
 
