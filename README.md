@@ -8,5 +8,6 @@ Weapon held
 Availability of Body Camera footage and more
 
 Datasets used:  https://github.com/washingtonpost/data-police-shootings
+                
                 https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml 
 
