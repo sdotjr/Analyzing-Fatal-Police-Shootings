@@ -25,8 +25,15 @@ Out of the 5716 deaths reported.  The average age of the deceased was 37 years o
 
 Over 95% of the victims are male.
 
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/genderstats.png)
+
 
 Looking at the numbers as the proportion of the racial population, Blacks, Hispanic, and Native Americans are more likely to be shot and killed by police.
+
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/shootingsbyrace.png)
+
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/raceproportion.png)
+
 
 # When do these shootings occur?
 
