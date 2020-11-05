@@ -21,6 +21,7 @@ Out of the 5716 deaths reported.  The average age of the deceased was 37 years o
 
 6% of victims were unarmed.
 
+![image](https://github.com/sdotjr/Analyzing-Fatal-Police-Shootings/blob/main/images/weaponheld.png)
 
 Over 95% of the victims are male.
 
