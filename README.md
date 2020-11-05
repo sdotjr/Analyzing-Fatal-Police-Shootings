@@ -42,9 +42,6 @@ The top 3 states where these shootings occurred the most are California, Texas, 
 # Are police shootings only a problem in densely populated areas?
 
 
-
-# Conclusion
-
 Datasets used:  
 
     https://github.com/washingtonpost/data-police-shootings
