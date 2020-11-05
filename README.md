@@ -14,6 +14,14 @@ Availability of Body Camera footage and more
 
 
 
+# When do these shootings occur?
+
+
+# Where do they occur?
+
+
+# Are police shootings only a problem in densely populated areas?
+
 
 
 Datasets used:  
